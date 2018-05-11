@@ -5,7 +5,7 @@
 
 **푸핑톤**(Puffington) Team
 
-**ranked 3th(over 200 teams, accuracy: 82.27%)**
+**ranked 3rd(over 200 teams, accuracy: 82.27%)**
 
 
 #### Final Leaderboard
