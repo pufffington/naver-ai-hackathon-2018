@@ -5,6 +5,8 @@
 
 **푸핑톤**(Puffington) Team
 
+ - 이상준, 이수진, 신동협 (경기대학교 인공지능 연구실)
+
 **ranked 3rd(over 200 teams, accuracy: 82.27%)**
 
 
