@@ -31,7 +31,7 @@
 |      Training Epoch       |     15     |
 |       Learning Rate       |   0.001    |
 |        Batch Size         |    256     |
-|       Drouout Rate        |    0.5     |
+|       Dropout Rate        |    0.5     |
 |      Word Embedding       |    32      |
 
 
